@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('fondo.png');
+   height: 600px;
+   font-size: 2em;
+   font-weight: bold;
+}
+header {
+    display: flex;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    padding: 10px 20px;
+}
+.logo {
+    width: 200px; 
+    height: auto;
+}
+footer {
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    padding: 10px 50px;
+    color: white;
+    height: auto;
+}
