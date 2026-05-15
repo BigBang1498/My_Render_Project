@@ -12,32 +12,12 @@
         <img src="logo.png" class="logo" >
     </header>
     <main>
-        <section>
-            <a href="https://youtu.be/2_EebOC2trk?si=LD_uZ40TrOHssmmD">¿Qué hay en la tiendita?</a>
-        </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+        <div style="text-align:center; padding: 2rem;">
+            <h2>Gestión de Productos</h2>
+            <a href="productos/listar.php">
+                <button>Ver todos los productos</button>
+            </a>
+        </div>
     </main>
     <footer>
         <h2>Datos del estudiante:</h2><br>
@@ -49,6 +29,6 @@
             <li>Unidad 3. Desarrollo de aplicaciones web en los servicios de la nube</li>
             <li>3.2. Sitio Web sencillo</li>
         </ol>
-    </footer>
+    </footer> 
 </body>
 </html>

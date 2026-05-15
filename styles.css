@@ -6,7 +6,7 @@
 main {
    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('fondo.png');
    height: 600px;
-   font-size: 2em;
+   font-size: 1em;
    font-weight: bold;
 }
 header {
