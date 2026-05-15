@@ -27,7 +27,7 @@
             <li>cristian.martin24a@udgvirtual.udg.mx</li>
             <li>Conceptualización de servicios en la nube</li>
             <li>Unidad 3. Desarrollo de aplicaciones web en los servicios de la nube</li>
-            <li>3.2. Sitio Web sencillo</li>
+            <li>3.3. Aplicación web con base de datos</li>
         </ol>
     </footer> 
 </body>
