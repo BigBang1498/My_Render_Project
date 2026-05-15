@@ -6,8 +6,8 @@ error_reporting(E_ALL);
 $host     = 'dpg-d831mnf2gups73ejfh20-a.oregon-postgres.render.com';  
 $port     = '5432';
 $dbname   = 'render_proyect';
-$user     = 'postgres';
-$password = 'nueva_contraseña';
+$user     = 'render_proyect_user';
+$password = 'gzFMAfBlSmQEKAvf2aTsNIlh8GTKV5wB';
 
 try {
     $dsn = "pgsql:host=$host;port=$port;dbname=$dbname";
